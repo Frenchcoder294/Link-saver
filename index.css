@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Cursive', sans-serif;
+    min-width: 400px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #006400;
+    margin-bottom: 4px;
+}
+
+button {
+    background: #006400;
+    color: white;
+    padding: 8px 10px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background 0.3s, color 0.3s;
+}
+
+button:hover {
+    background: #004b23;
+    color: #fff;
+}
+
+#delete-btn {
+    background: white;
+    color: #d90429;
+    border-color: #E74C3C;
+}
+
+#delete-btn:hover {
+    background: #d90429;
+    color: white;
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #0077b6;
+    text-decoration: none;
+    font-family: 'Cursive', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+
+}
+
+a:hover {
+    color: #03045e;
+}
+
+span {
+    font-weight: bold;
+    font-size: 18px;
+    font-family: cursive;
+    margin-right: 5px;
+    color: #000814;
+}
+
+.copy-btn {
+    background: #3498DB;
+    color: white;
+    padding: 5px 10px;
+    border: 1px solid #3498DB;
+    cursor: pointer;
+    transition: background 0.3s, color 0.3s;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+.copy-btn:hover {
+    background: #2980B9;
+    color: #fff;
+}
+
+
+.delete-btn {
+    background: #d90429;
+    color: white;
+    padding: 5px 10px;
+    border: 1px solid #E74C3C;
+    margin-left: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s, color 0.3s;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.delete-btn:hover {
+    background: #ef233c;
+    color: #fff;
+}
