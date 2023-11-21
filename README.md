@@ -18,7 +18,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-extension.git
+   git clone https://github.com/farid-malekpour/Link-saver
 2. Open Google Chrome and go to chrome://extensions/.
 
 3. Enable "Developer mode" in the top right.
