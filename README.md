@@ -4,7 +4,7 @@
 
 
 > this is a Chrome extension that has the ability of saving the links you input and the links off the current tab.
-
+## [Demo](https://farid-malekpour.github.io/Link-saver)
 ## Features
 
 - You can delete all of the saved links by double clicking on 'DELETE ALL' button
